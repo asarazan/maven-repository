@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sarazan</groupId>
+  <artifactId>kotterknife</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150320213958</lastUpdated>
+  </versioning>
+</metadata>
